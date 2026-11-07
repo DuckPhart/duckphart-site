@@ -1,0 +1,30 @@
+{
+  "name": "Freedom Budget",
+  "short_name": "Freedom",
+  "description": "A private 4-week plan for paychecks, bills, debts, and a savings cushion.",
+  "start_url": "/duckphart-site/freedom-budget/",
+  "scope": "/duckphart-site/freedom-budget/",
+  "display": "standalone",
+  "background_color": "#f3efe4",
+  "theme_color": "#1e5c45",
+  "icons": [
+    {
+      "src": "/duckphart-site/freedom-budget/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/duckphart-site/freedom-budget/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/duckphart-site/freedom-budget/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

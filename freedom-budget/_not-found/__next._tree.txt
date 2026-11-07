@@ -1,0 +1,4 @@
+:HL["/duckphart-site/freedom-budget/_next/static/chunks/1t2vba6gd3pgv.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"DfKqXN0LKLhW3dPhiVvKM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
